@@ -1,76 +1,41 @@
-# 🖥️ ABHINAV OS — Personal Portfolio
+# Abhinav Portfolio
 
-### An Interactive Desktop-Style Portfolio
+A personal portfolio website built to showcase my profile, skills, and work through a clean and interactive web interface.
 
-Welcome to **ABHINAV OS**, my personal portfolio website designed with a desktop-inspired interface. It showcases my profile, technical interests, and development journey through an interactive web experience.
+## About the Project
 
-🌐 **Live Portfolio:** [View ABHINAV OS](https://abhinavprog.github.io/Abhinav-Portfolio/)
+Abhinav Portfolio is a personal website developed using HTML, CSS, and JavaScript. It presents information in an organized format while providing visitors with an easy way to explore the portfolio.
 
----
+The project focuses on front-end development, visual design, and interactive web experiences.
 
-## ✨ About the Project
+## Features
 
-ABHINAV OS is a personal portfolio project built to present my work and skills in a creative, interactive way. Inspired by a desktop operating system, the website provides a unique alternative to a traditional portfolio layout.
+* Clean and interactive user interface
+* Personal portfolio presentation
+* Responsive web design
+* Interactive elements using JavaScript
+* Organized layout and styling
+* Hosted using GitHub Pages
 
-The project helped me practise front-end development, interface design, and JavaScript-based interactivity.
+## Tech Stack
 
-## 🚀 Features
+* **HTML5** – Structures the website content.
+* **CSS3** – Handles the visual design, layout, and styling.
+* **JavaScript** – Adds interactive functionality.
+* **GitHub Pages** – Hosts the website.
 
-* 🖥️ Desktop-inspired user interface
-* 🎨 Custom styling with CSS
-* ⚡ Interactive functionality using JavaScript
-* 🌐 Live website hosted with GitHub Pages
-* 📂 Organized project structure using separate HTML, CSS, and JavaScript files
+## Project Structure
 
-## 🛠️ Technologies Used
-
-* **HTML5** — Website structure
-* **CSS3** — Styling and layout
-* **JavaScript** — Interactive functionality
-* **GitHub** — Source code management
-* **GitHub Pages** — Website hosting and deployment
-
-## 📁 Project Structure
-
-```text
 Abhinav-Portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-```
 
-## 🌍 Live Demo
+## URL
 
-Explore the deployed website:
+https://abhinavprog.github.io/Abhinav-Portfolio/
 
-👉 https://abhinavprog.github.io/Abhinav-Portfolio/
+## Deployment
 
-## 💡 What I Learned
-
-* Building and organizing a front-end web project
-* Styling web pages with CSS
-* Adding interactivity with JavaScript
-* Managing project files using GitHub
-* Deploying a static website using GitHub Pages
-
-## 🔮 Future Improvements
-
-* Add more projects and detailed descriptions
-* Improve responsiveness across different screen sizes
-* Enhance accessibility and user experience
-* Continue improving the interface and interactive features
-
-## 👨‍💻 About Me
-
-**Abhinav Sai Ganla**
-
-Aspiring software developer interested in web development, Salesforce, and building practical technology projects.
-
-🔗 **GitHub:** [@Abhinavprog](https://github.com/Abhinavprog)
-
----
-
-⭐ If you find this project interesting, feel free to explore the repository and the live website.
-
-**Thanks for visiting ABHINAV OS!**
+The website is deployed using GitHub Pages.
